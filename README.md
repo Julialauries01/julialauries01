@@ -123,6 +123,6 @@ Hi, I'm Julia Laurie!
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[julialauries01](https://github.com/julialauries01)
 
 Last Edited on: 19/07/2022
