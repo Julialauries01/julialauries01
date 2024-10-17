@@ -50,6 +50,7 @@ Hi, I'm Julia Laurie!
 ### 🧰 Frameworks and Libraries
 
 <p>
+    <a href="https://github.com/julialauries01"><img alt="React.js" src="https://img.shields.io/badge/react-blue"></a>
     <a href="https://github.com/julialauries01"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/julialauries01"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
