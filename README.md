@@ -22,7 +22,7 @@ Hi, I'm Julia Laurie!
 <hr>
 
 <pre>
-💻 I am a self-taught Full Stack Developer.
+💻 I am a Full Stack Developer.
 📚 I have a Bachelor's in Software Engineering from the University of Ribeirão Preto.
 📝 I have a strong interest in Data Science.
 🔭 I am working as a Full Stack Developer and exploring Data Science.
